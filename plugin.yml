@@ -1,0 +1,20 @@
+name: SBSwitcher
+main: THXC\SBSwitcher\Main
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+load: POSTWORLD
+author: THXC
+description: Snowball that makes the source and the player hit switch places
+
+commands:
+  gsb:
+    description: "Gives switcher snowball"
+    usage: "/gsb <amount> <player>"
+    permission: sbswitcher.command
+
+permissions:
+  sbswitcher:
+    default: op
+    children:
+      sbswitcher.command:
+        default: op

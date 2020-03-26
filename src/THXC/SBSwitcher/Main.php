@@ -1,5 +1,11 @@
 <?php
-
+/*
+   _ _ _ _ 
+ /	   \
+| Bobs Plz  |
+\          /
+ ----------
+*/
 declare(strict_types=1);
 
 namespace THXC\SBSwitcher;

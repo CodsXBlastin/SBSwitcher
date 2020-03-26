@@ -1,9 +1,9 @@
 name: SBSwitcher
 main: THXC\SBSwitcher\Main
 version: 1.0.0
-api: [3.0.0, 4.0.0]
+api: [3.0.0, 3.11.4, 4.0.0]
 load: POSTWORLD
-author: THXC
+author: THXC 
 description: Snowball that makes the source and the player hit switch places
 
 commands:
